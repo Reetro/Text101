@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2dd6a5ab9c6d814c8c42447041c7810, type: 3}
+  m_Name: A1 - StartRoom
+  m_EditorClassIdentifier: 
+  storyText: "\rRick and Morty wake up in a dimly lit room.\r\nMorty - Oh Geez Rick
+    what happened? We were at the arcade playing Roy. Then a guy gave us a drink
+    and everything went black.\r\nRick - A guy DRUG US MORTY!!! IT GETS EVEN WORSE
+    MORTY HE DROPPED US \rIN\nALABAMA MORTY!!!\r\nMorty - Aw Man that doesn\u2019t
+    so bad Rick. \r\nRick - MORTY CAN YOU STOP BEING DUM FOR 5 MINUTES *blerp*! YOU
+    KNOW WHAT THEY DO TO PEOPLE IN ALABAMA MORTY! THEY ARE SINGERS WHO NEVER SHUT
+    UP! THEY STICK THEIR SONGS INTO YOUR BRAIN *blerp* MORTY!\r\nMorty - Oh Geez
+    Rick we should probably use the portal gun out of here.\r\n\r\nRick looks down
+    at his portal and the screen on it is slightly cracked. He can just barely make
+    out the letter B. The controls also seem pretty busted on as well he won\u2019t
+    be able to change its destination. Also morty can see a door on the far side
+    of the room.\r\n\r\nWhat should Rick and Morty Do?\r\n1. Use the portal gun\r\n2.
+    Go through the door\r"
+  NextStates:
+  - {fileID: 11400000, guid: 19194acf1f6aef24fbfcc6f3dd228254, type: 2}
+  - {fileID: 11400000, guid: 7d1e2d155a80c514c9db3e219ba0ff43, type: 2}
